@@ -1,2 +1,2 @@
 name = 'Manana'
-print('muerte a' + name)
+print('larga vida ' + name)
